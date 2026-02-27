@@ -5,7 +5,10 @@
 ### Microsoft Excel Picks
 
 [🚀 E‑Commerce Furniture Analytics 2024](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024)
+<img src="images/ecommerce-furniture/EDA.png"/>
 <img src="images/ecommerce-furniture/Rev_Seg_Correlation.png"/>
+<img src="images/ecommerce-furniture/Avg_Items_Sold.png"/>
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
