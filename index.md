@@ -2,7 +2,7 @@
 
 ---
 
-### Microsoft Excel Picks
+### Python Picks
 
 #### 1. [🚀 E‑Commerce Furniture Analytics 2024](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024)
 <img src="images/ecommerce-furniture/EDA.png"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### SQL Picks
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -26,6 +26,14 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+
+### Microsoft Excel Picks
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
 
 
