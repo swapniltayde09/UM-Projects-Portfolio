@@ -4,7 +4,7 @@
 
 ### Microsoft Excel Picks
 
-[🚀 E‑Commerce Furniture Analytics 2024](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024)
+#### 1. [🚀 E‑Commerce Furniture Analytics 2024](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024)
 <img src="images/ecommerce-furniture/EDA.png"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
