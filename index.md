@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Microsoft Excel Picks
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[🚀 E‑Commerce Furniture Analytics 2024](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024)
+<img src="images/ecommerce-furniture/Rev_Seg_Correlation.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
