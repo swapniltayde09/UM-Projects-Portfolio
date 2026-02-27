@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Swapnil Tayde # your name (or website title) here
+logo: images/Swapnil_Tayde_500x500.jpg # your photo (or logo) here
+description: > 
+   Curious, disciplined, driven data learner focused on turning raw data into clear, actionable insights.
   <br><br>
-  Second description 
+   I enjoy working end-to-end, from cleaning and exploring data to communicating findings that support smarter decisions. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/swapniltayde/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
