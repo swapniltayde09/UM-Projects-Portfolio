@@ -19,7 +19,7 @@
 
 ### SQL Picks
 
-- [Project 1 Title](http://example.com/)
+- 📱 Instagram Influencer Analytics Dashboard(https://github.com/swapniltayde09/Instagram-Influencer-Analytics)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
