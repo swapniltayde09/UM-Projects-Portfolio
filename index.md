@@ -7,9 +7,7 @@
 <img src="images/ecommerce-furniture/EDA.png"/> 
 <img src="images/ecommerce-furniture/Price_vs_Revenue.png"/>
 
-[Final Report](pdf/Furniture%20Analytics%20Insights.pdf)
-
-[![Furniture Analytics Report](images/ecommerce-furniture/EDA.png)](pdf/Furniture%20Analytics%20Insights.pdf)
+[Furniture Analytics Report (PDF)](pdf/Furniture%20Analytics%20Insights.pdf)
 
 ---
 ### [Project 2 Title](/pdf/sample_presentation.pdf)
