@@ -5,7 +5,9 @@
 ## Python Picks
 ### 1. [🚀 E‑Commerce Furniture Analytics 2024](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024)
 <img src="images/ecommerce-furniture/EDA.png"/> <img src="images/ecommerce-furniture/Price_vs_Revenue.png"/>
-[Final Report](pdf/Furniture Analytics Insights.pdf)
+[Final Report](pdf/Furniture%20Analytics%20Insights.pdf)
+
+[![Furniture Analytics Report](images/ecommerce-furniture/EDA.png)](pdf/Furniture%20Analytics%20Insights.pdf)
 
 ---
 ### [Project 2 Title](/pdf/sample_presentation.pdf)
