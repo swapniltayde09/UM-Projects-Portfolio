@@ -24,9 +24,9 @@
 #### [Instagram Influencers Analytics Report (PDF)](pdf/Instagram_Influencer_Report_Final.pdf)
 
 ---
-### [Project 2 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+### [Finance & Accounting Courses - Udemy (13K course)](https://github.com/swapniltayde09/Udemy-Courses-Performance-Analysis)
+<img src="images/udemy_courses/Category_Performance_500x.jpg"/> <img src="images/udemy_courses/Growth_Trend_500x.jpg"/>
+#### [Udemy Courses Analytics Report (PDF)](pdf/Udemy_EDA_Presentation.pdf)
 ---
 ### [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
