@@ -28,9 +28,9 @@
 <img src="images/udemy_courses/Category_Performance_500x.jpg"/> <img src="images/udemy_courses/Growth_Trend_500x.jpg"/>
 #### [Udemy Courses Analytics Report (PDF)](pdf/Udemy_EDA_Presentation.pdf)
 ---
-### [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/> <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+### [Supermart Grocery Sales Retail Analytics](https://github.com/swapniltayde09/Supermart-Grocery-Sales-Retail-Analytics)
+<img src="images/superstore_eda/Citywise_Sales_500x.jpg"/> <img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.jpg"/>
+#### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
 ---
 
 ## Microsoft Excel Picks
