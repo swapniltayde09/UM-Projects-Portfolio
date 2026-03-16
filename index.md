@@ -29,7 +29,7 @@
 #### [Udemy Courses Analytics Report (PDF)](pdf/Udemy_EDA_Presentation.pdf)
 ---
 ### [Supermart Grocery Sales Retail Analytics](https://github.com/swapniltayde09/Supermart-Grocery-Sales-Retail-Analytics)
-<img src="images/superstore_eda/Citywise_Sales_500x.jpg"/> <img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.jpg"/>
+<img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.png"/> <img src="images/superstore_eda/Profit_by_category_500x.png"/>
 #### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
 ---
 
