@@ -9,7 +9,7 @@
 
 ---
 ### [Data Science Job Salaries](https://github.com/swapniltayde09/Data-Science-Job-Salaries-Analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/data science job salaries/distribution-of-data-science-salaries-usd_500x.png"/>  <img src="images/data science job salaries/avg-sal-by-exp-level_500x.png"/>
 #### [Data Science Job Salaries Analytics Report (PDF)](pdf/Data_Science_Salary_EDA_Detailed_Report.pdf)
 
 ---
