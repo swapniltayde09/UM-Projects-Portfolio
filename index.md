@@ -3,14 +3,14 @@
 ---
 
 ## Python Picks
-### 1. [🚀 E‑Commerce Furniture Analytics 2024](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024)
+### 1. [E‑Commerce Furniture Analytics 2024](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024)
 <img src="images/ecommerce-furniture/EDA.png"/> <img src="images/ecommerce-furniture/Price_vs_Revenue.png"/>
-
-#### [Furniture Analytics Report (PDF)](pdf/Furniture%20Analytics%20Insights.pdf)
+#### [eCommerce Furniture Analytics Report (PDF)](pdf/Furniture%20Analytics%20Insights.pdf)
 
 ---
-### [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Data Science Job Salaries](https://github.com/swapniltayde09/Data-Science-Job-Salaries-Analysis)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### [Data Science Job Salaries Analytics Report (PDF)](pdf/Data_Science_Salary_EDA_Detailed_Report.pdf)
 
 ---
 ### [Project 3 Title](http://example.com/)
