@@ -5,6 +5,7 @@
 ## Python Picks
 ### 1. [IBM HR Analytics Employee Attrition & Performance](https://github.com/swapniltayde09/hr-attrition-analysis-ml-dashboard)
 <img src="images/hr-attrition-project/Employee_Attrition_Dashboard_500x.png"/> <img src="images/hr-attrition-project/Correlation_Heatmap_500x.png"/>
+<img src="images/hr-attrition-project/Top-Attrition-Drivers_500x.png"/>
 #### [eCommerce Furniture Analytics Report (PDF)](pdf/Furniture%20Analytics%20Insights.pdf)
 
 ---
