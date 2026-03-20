@@ -3,16 +3,18 @@
 ---
 
 ## Python Picks
-### 1. [E‑Commerce Furniture Analytics 2024](https://github.com/swapniltayde09/ecommerce-furniture-analytics-2024)
-<img src="images/ecommerce-furniture/EDA.png"/> <img src="images/ecommerce-furniture/Price_vs_Revenue.png"/>
+### 1. [IBM HR Analytics Employee Attrition & Performance](https://github.com/swapniltayde09/hr-attrition-analysis-ml-dashboard)
+<img src="images/hr-attrition-project/Employee_Attrition_Dashboard_500x.png"/> <img src="images/hr-attrition-project/Correlation_Heatmap_500x.png"/>
 #### [eCommerce Furniture Analytics Report (PDF)](pdf/Furniture%20Analytics%20Insights.pdf)
 
 ---
+
 ### [Data Science Job Salaries](https://github.com/swapniltayde09/Data-Science-Job-Salaries-Analysis)
 <img src="images/data science job salaries/distribution-of-data-science-salaries-usd_500x.png"/>  <img src="images/data science job salaries/avg-sal-by-exp-level_500x.png"/>
 #### [Data Science Job Salaries Analytics Report (PDF)](pdf/Data_Science_Salary_EDA_Detailed_Report.pdf)
 
 ---
+
 ### [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -24,13 +26,17 @@
 #### [Instagram Influencers Analytics Report (PDF)](pdf/Instagram_Influencer_Report_Final.pdf)
 
 ---
+
 ### [Finance & Accounting Courses - Udemy (13K course)](https://github.com/swapniltayde09/Udemy-Courses-Performance-Analysis)
 <img src="images/udemy_courses/Category_Performance_500x.jpg"/> <img src="images/udemy_courses/Growth_Trend_500x.jpg"/>
 #### [Udemy Courses Analytics Report (PDF)](pdf/Udemy_EDA_Presentation.pdf)
+
 ---
+
 ### [Supermart Grocery Sales Retail Analytics](https://github.com/swapniltayde09/Supermart-Grocery-Sales-Retail-Analytics)
 <img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.png"/> <img src="images/superstore_eda/Profit_by_category_500x.png"/>
 #### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
+
 ---
 
 ## Microsoft Excel Picks
