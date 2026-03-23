@@ -20,9 +20,13 @@
 
 ---
 
-### 3. [Project 3 Title](http://example.com/)
+### 3. [Used Bike Prices - Feature Engineering and EDA](https://github.com/swapniltayde09/pre-owned-motorcycle-analytics)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/used-bikes/Used_Bikes_PBI_Dashboard_page-0001-500x.jpg"/>
+
+<img src="images/used-bikes/Used_Bikes_PBI_Dashboard_page-0002-500x.jpg"/>
+
+<img src="images/used-bikes/Used_Bikes_PBI_Dashboard_page-0003-500x.jpg"/>
 
 #### [Data Science Job Salaries Analytics Report (PDF)](pdf/Data_Science_Salary_EDA_Detailed_Report.pdf)
 
