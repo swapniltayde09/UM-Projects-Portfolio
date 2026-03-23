@@ -20,7 +20,7 @@
 
 <img src="images/data science job salaries/avg-sal-by-exp-level_500x.png"/>
 
-#### [Data Science Job Salaries Analytics Report (PDF)](pdf/Data_Science_Salary_EDA_Detailed_Report.pdf)
+##### [Data Science Job Salaries Analytics Report (PDF)](pdf/Data_Science_Salary_EDA_Detailed_Report.pdf)
 
 ---
 
@@ -32,7 +32,7 @@
 
 <img src="images/used-bikes/Used_Bikes_PBI_Dashboard_page-0003-500x.jpg"/>
 
-#### [Data Science Job Salaries Analytics Report (PDF)](pdf/Data_Science_Salary_EDA_Detailed_Report.pdf)
+##### [Pre-owned Motorcycles Financial Analysis Report (PDF)](pdf/Pre-Owned_Motorcycle_Financial_Analysis_Report.pdf)
 
 ---
 
@@ -44,7 +44,7 @@
 
 <img src="images/Instagram_Infleuncers/chart_momentum_leaders_320x480.jpg"/>
 
-#### [Instagram Influencers Analytics Report (PDF)](pdf/Instagram_Influencer_Report_Final.pdf)
+##### [Instagram Influencers Analytics Report (PDF)](pdf/Instagram_Influencer_Report_Final.pdf)
 
 ---
 
@@ -54,7 +54,7 @@
 
 <img src="images/udemy_courses/Growth_Trend_500x.jpg"/>
 
-#### [Udemy Courses Analytics Report (PDF)](pdf/Udemy_EDA_Presentation.pdf)
+##### [Udemy Courses Analytics Report (PDF)](pdf/Udemy_EDA_Presentation.pdf)
 
 ---
 
@@ -64,14 +64,40 @@
 
 <img src="images/superstore_eda/Profit_by_category_500x.png"/>
 
-#### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
+##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
 
 ---
 
 ## Microsoft Excel Picks
+
 ### [Project 1 Title](http://example.com/)
+
+<img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.png"/> 
+
+<img src="images/superstore_eda/Profit_by_category_500x.png"/>
+
+##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
+
+---
 ### [Project 2 Title](http://example.com/)
+
+<img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.png"/> 
+
+<img src="images/superstore_eda/Profit_by_category_500x.png"/>
+
+##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
+
+---
+
 ### [Project 3 Title](http://example.com/)
+
+<img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.png"/> 
+
+<img src="images/superstore_eda/Profit_by_category_500x.png"/>
+
+##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
+
+---
 <!-- - [Project 4 Title](http://example.com/) -->
 <!-- - [Project 5 Title](http://example.com/) -->
 
