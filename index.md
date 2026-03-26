@@ -74,7 +74,7 @@
 
 <img src="https://raw.githubusercontent.com/swapniltayde09/Netflix-Content-Strategy-Analysis/main/Visuals/Netflix_Dashboard_Preview.png" width="800">
 
-##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
+##### [📄 View Full Netflix Data Analysis Report (PDF)](https://raw.githubusercontent.com/swapniltayde09/Netflix-Content-Strategy-Analysis/c0c93ab55a2760ed9c44a200c42caeecc17901db/Dashboard/Netflix_Data_Analysis_Report.pdf)
 
 ---
 ### [Project 2 Title](http://example.com/)
