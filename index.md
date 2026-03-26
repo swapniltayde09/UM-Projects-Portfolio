@@ -70,9 +70,9 @@
 
 ## Microsoft Excel Picks
 
-### [Project 1 Title](http://example.com/)
+### [Netflix Content Strategy Analysis](https://github.com/swapniltayde09/Netflix-Content-Strategy-Analysis)
 
-<img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.png"/> 
+<img src="Visuals/Netflix_Dashboard_Preview.png"/> 
 
 <img src="images/superstore_eda/Profit_by_category_500x.png"/>
 
