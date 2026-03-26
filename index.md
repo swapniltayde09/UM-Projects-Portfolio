@@ -72,9 +72,7 @@
 
 ### [Netflix Content Strategy Analysis](https://github.com/swapniltayde09/Netflix-Content-Strategy-Analysis)
 
-<img src="Visuals/Netflix_Dashboard_Preview.png"/> 
-
-<img src="images/superstore_eda/Profit_by_category_500x.png"/>
+<img src="https://raw.githubusercontent.com/swapniltayde09/Netflix-Content-Strategy-Analysis/main/Visuals/Netflix_Dashboard_Preview.png" width="800">
 
 ##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
 
