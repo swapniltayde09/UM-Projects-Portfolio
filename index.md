@@ -2,37 +2,32 @@
 
 ---
 
-## Python Picks
+## Microsoft Excel Picks
 
-### 1. [IBM HR Analytics Employee Attrition & Performance](https://github.com/swapniltayde09/hr-attrition-analysis-ml-dashboard)
+### [Netflix Content Strategy Analysis](https://github.com/swapniltayde09/Netflix-Content-Strategy-Analysis)
 
-<img src="images/hr-attrition-project/Top-Attrition-Drivers_500x.png"/> 
+<img src="https://raw.githubusercontent.com/swapniltayde09/Netflix-Content-Strategy-Analysis/main/Visuals/Netflix_Dashboard_Preview.png" width="800">
 
-<img src="images/hr-attrition-project/Correlation_Heatmap_500x.png"/>
+##### [📄 View Full Netflix Data Analysis Report (PDF)](https://raw.githubusercontent.com/swapniltayde09/Netflix-Content-Strategy-Analysis/c0c93ab55a2760ed9c44a200c42caeecc17901db/Dashboard/Netflix_Data_Analysis_Report.pdf)
 
-#### [IBM HR Analytics Employee Attrition & Performance Report (PDF)](pdf/HR_Attrition_Analysis_Report_Detailed.pdf)
+---
+### [Project 2 Title](http://example.com/)
+
+<img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.png"/> 
+
+<img src="images/superstore_eda/Profit_by_category_500x.png"/>
+
+##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
 
 ---
 
-### 2. [Data Science Job Salaries](https://github.com/swapniltayde09/Data-Science-Job-Salaries-Analysis)
+### [Project 3 Title](http://example.com/)
 
-<img src="images/data science job salaries/distribution-of-data-science-salaries-usd_500x.png"/> 
+<img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.png"/> 
 
-<img src="images/data science job salaries/avg-sal-by-exp-level_500x.png"/>
+<img src="images/superstore_eda/Profit_by_category_500x.png"/>
 
-##### [Data Science Job Salaries Analytics Report (PDF)](pdf/Data_Science_Salary_EDA_Detailed_Report.pdf)
-
----
-
-### 3. [Used Bike Prices - Feature Engineering and EDA](https://github.com/swapniltayde09/pre-owned-motorcycle-analytics)
-
-<img src="images/used-bikes/Used_Bikes_PBI_Dashboard_page-0001-500x.jpg"/>
-
-<img src="images/used-bikes/Used_Bikes_PBI_Dashboard_page-0002-500x.jpg"/>
-
-<img src="images/used-bikes/Used_Bikes_PBI_Dashboard_page-0003-500x.jpg"/>
-
-##### [Pre-owned Motorcycles Financial Analysis Report (PDF)](pdf/Pre-Owned_Motorcycle_Financial_Analysis_Report.pdf)
+##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
 
 ---
 
@@ -68,34 +63,38 @@
 
 ---
 
-## Microsoft Excel Picks
+## Python Picks
 
-### [Netflix Content Strategy Analysis](https://github.com/swapniltayde09/Netflix-Content-Strategy-Analysis)
+### 1. [IBM HR Analytics Employee Attrition & Performance](https://github.com/swapniltayde09/hr-attrition-analysis-ml-dashboard)
 
-<img src="https://raw.githubusercontent.com/swapniltayde09/Netflix-Content-Strategy-Analysis/main/Visuals/Netflix_Dashboard_Preview.png" width="800">
+<img src="images/hr-attrition-project/Top-Attrition-Drivers_500x.png"/> 
 
-##### [📄 View Full Netflix Data Analysis Report (PDF)](https://raw.githubusercontent.com/swapniltayde09/Netflix-Content-Strategy-Analysis/c0c93ab55a2760ed9c44a200c42caeecc17901db/Dashboard/Netflix_Data_Analysis_Report.pdf)
+<img src="images/hr-attrition-project/Correlation_Heatmap_500x.png"/>
 
----
-### [Project 2 Title](http://example.com/)
-
-<img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.png"/> 
-
-<img src="images/superstore_eda/Profit_by_category_500x.png"/>
-
-##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
+#### [IBM HR Analytics Employee Attrition & Performance Report (PDF)](pdf/HR_Attrition_Analysis_Report_Detailed.pdf)
 
 ---
 
-### [Project 3 Title](http://example.com/)
+### 2. [Data Science Job Salaries](https://github.com/swapniltayde09/Data-Science-Job-Salaries-Analysis)
 
-<img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.png"/> 
+<img src="images/data science job salaries/distribution-of-data-science-salaries-usd_500x.png"/> 
 
-<img src="images/superstore_eda/Profit_by_category_500x.png"/>
+<img src="images/data science job salaries/avg-sal-by-exp-level_500x.png"/>
 
-##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
+##### [Data Science Job Salaries Analytics Report (PDF)](pdf/Data_Science_Salary_EDA_Detailed_Report.pdf)
 
 ---
+
+### 3. [Used Bike Prices - Feature Engineering and EDA](https://github.com/swapniltayde09/pre-owned-motorcycle-analytics)
+
+<img src="images/used-bikes/Used_Bikes_PBI_Dashboard_page-0001-500x.jpg"/>
+
+<img src="images/used-bikes/Used_Bikes_PBI_Dashboard_page-0002-500x.jpg"/>
+
+<img src="images/used-bikes/Used_Bikes_PBI_Dashboard_page-0003-500x.jpg"/>
+
+##### [Pre-owned Motorcycles Financial Analysis Report (PDF)](pdf/Pre-Owned_Motorcycle_Financial_Analysis_Report.pdf)
+
 <!-- - [Project 4 Title](http://example.com/) -->
 <!-- - [Project 5 Title](http://example.com/) -->
 
