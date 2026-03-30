@@ -21,13 +21,13 @@
 
 ---
 
-### [Project 3 Title](http://example.com/)
+### [Olympic Medals Dominance Insight](https://github.com/swapniltayde09/Olympic-Medals-Dominance-Insight)
 
-<img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.png"/> 
+<img src="images/olympics_medals/Olympics_Medals_Dashboard_00001.jpg"/> 
 
-<img src="images/superstore_eda/Profit_by_category_500x.png"/>
+<img src="images/olympics_medals/Olympics_Medals_Dashboard_00005.jpg"/>
 
-##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
+##### [📄 View Full Olympics Medals Data Analysis Report (PDF)](https://raw.githubusercontent.com/swapniltayde09/Olympic-Medals-Dominance-Insight/7a2f0d32f22aa684a2e8ecd8d074258d2ae28a99/Report/Olympic_Medals_Analysis__Report.pdf) 
 
 ---
 
