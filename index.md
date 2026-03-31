@@ -11,13 +11,13 @@
 ##### [📄 View Full Netflix Data Analysis Report (PDF)](https://raw.githubusercontent.com/swapniltayde09/Netflix-Content-Strategy-Analysis/c0c93ab55a2760ed9c44a200c42caeecc17901db/Dashboard/Netflix_Data_Analysis_Report.pdf)
 
 ---
-### [Project 2 Title](http://example.com/)
+<!-- -### [Project 2 Title](http://example.com/)
 
 <img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.png"/> 
 
 <img src="images/superstore_eda/Profit_by_category_500x.png"/>
 
-##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
+##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) --->
 
 ---
 
