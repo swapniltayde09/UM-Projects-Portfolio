@@ -4,7 +4,7 @@
 
 ## Microsoft Excel Picks
 
-### [Netflix Content Strategy Analysis](https://github.com/swapniltayde09/Netflix-Content-Strategy-Analysis)
+### [1. Netflix Content Strategy Analysis](https://github.com/swapniltayde09/Netflix-Content-Strategy-Analysis)
 
 <img src="https://raw.githubusercontent.com/swapniltayde09/Netflix-Content-Strategy-Analysis/main/Visuals/Netflix_Dashboard_Preview.png" width="800">
 
@@ -17,11 +17,11 @@
 
 <img src="images/superstore_eda/Profit_by_category_500x.png"/>
 
-##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) --->
+##### [Supermart Sales Analytics Report(PDF)](pdf/Supermart_Sales_Analytics_Report.pdf) 
 
----
+---  --->
 
-### [Olympic Medals Dominance Insight](https://github.com/swapniltayde09/Olympic-Medals-Dominance-Insight)
+### [2. Olympic Medals Dominance Insight](https://github.com/swapniltayde09/Olympic-Medals-Dominance-Insight)
 
 <img src="images/olympics_medals/Olympics_Medals_Dashboard_00001.jpg"/> 
 
@@ -33,7 +33,7 @@
 
 ## SQL Picks
 
-### 1. [Instagram Influencer Analytics Dashboard](https://github.com/swapniltayde09/Instagram-Influencer-Analytics)
+### [1. Instagram Influencer Analytics Dashboard](https://github.com/swapniltayde09/Instagram-Influencer-Analytics)
 
 <img src="images/Instagram_Infleuncers/engagement_vs_followers_320x480.jpg"/> 
 
@@ -43,7 +43,7 @@
 
 ---
 
-### 2. [Finance & Accounting Courses - Udemy (13K course)](https://github.com/swapniltayde09/Udemy-Courses-Performance-Analysis)
+### [2. Finance & Accounting Courses - Udemy (13K course)](https://github.com/swapniltayde09/Udemy-Courses-Performance-Analysis)
 
 <img src="images/udemy_courses/Category_Performance_500x.jpg"/> 
 
@@ -53,7 +53,7 @@
 
 ---
 
-### 3. [Supermart Grocery Sales Retail Analytics](https://github.com/swapniltayde09/Supermart-Grocery-Sales-Retail-Analytics)
+### [3. Supermart Grocery Sales Retail Analytics](https://github.com/swapniltayde09/Supermart-Grocery-Sales-Retail-Analytics)
 
 <img src="images/superstore_eda/Citywise_Sales_vs_Profit_500x.png"/> 
 
